@@ -19,6 +19,4 @@ Logs all failures to Sentry for tracking. Related to #245.
 
 ---
 
-[🔼 Back to Git](../README.md#git)
 
-[⬅️ Back to Notes](../README.md)

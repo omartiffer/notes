@@ -22,6 +22,4 @@
 
 ---
 
-[🔼 Back to Git](../README.md#git)
 
-[⬅️ Back to Notes](../README.md)

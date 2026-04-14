@@ -26,6 +26,4 @@ git commit -m "Commit message"
 
 ---
 
-[🔼 Back to Git](../README.md#git)
 
-[⬅️ Back to Notes](../README.md)
