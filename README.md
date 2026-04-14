@@ -2,8 +2,6 @@
 
 A collection of concise notes on things I've learned.
 
----
-
 ## Index
 
 - [Git](#git)
@@ -13,6 +11,7 @@ A collection of concise notes on things I've learned.
 ## Git
 
 ### Porcelain Commands
+
 - [Basic Commands](git/basic-commands.md)
 - [Tracking Changes](git/tracking-changes.md)
 - [Commit History](git/commit-history.md)
@@ -25,8 +24,10 @@ A collection of concise notes on things I've learned.
 - [Stash & Tags](git/stash-and-tags.md)
 
 ### Plumbing Commands
+
 - [Plumbing Commands](git/plumbing-commands.md)
 
 ### Practices & Resources
+
 - [Commit Message Best Practices](git/commit-message-best-practices.md)
 - [Resources](git/resources.md)
