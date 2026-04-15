@@ -5,6 +5,7 @@ A collection of concise notes on things I've learned.
 ## Index
 
 - [Git](#git)
+- [Prompt Engineering](#prompt-engineering)
 
 ---
 
@@ -31,3 +32,13 @@ A collection of concise notes on things I've learned.
 
 - [Commit Message Best Practices](git/commit-message-best-practices.md)
 - [Resources](git/resources.md)
+
+---
+
+## Prompt Engineering
+
+- [Prompt Anatomy](prompt-eng/prompt-anatomy.md)
+- [Strategies](prompt-eng/strategies.md)
+- [Zero-Shot Prompting](prompt-eng/zero-shot.md)
+- [Few-Shot Prompting](prompt-eng/few-shot.md)
+- [Chain-of-Thought Prompting](prompt-eng/chain-of-thought.md)
